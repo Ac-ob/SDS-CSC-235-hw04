@@ -1,0 +1,43 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+}
+
+
+.container_a {
+    text-align: center;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    background-color: #fff;
+}
+
+.container_b {
+    text-align: center;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    background-color: #fff;
+}
+
+
+.counter_a {
+    font-size: 0.8em;
+    margin-bottom: 20px;
+}
+
+.counter_b {
+    font-size: 0.8em;
+    margin-bottom: 20px;
+}
+
+.counter_c {
+    font-size: 2em;
+    margin-bottom: 20px;
+}
+
+
+
+
