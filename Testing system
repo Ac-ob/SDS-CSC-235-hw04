@@ -1,0 +1,9 @@
+Write down two specific analysis tasks you could ask someone to do with your system. For example, can you identify two cliques in this network?
+1. Find the percentage of Native American Students that received corporal punishment as a disciplinary action.
+2. What is the largest disciplinary action received within the Pacific Islander group.
+
+Ask a classmate or friend to perform the tasks, one by one. As they do, take notes. What do they find intuative about your system? What confuses them? Do any unexpected bugs arise?
+- They found the system intuitive based on the instructions provided on the plot. However, they did run into the issue that the tooltip appeared on top of the demographic categories. This made it difficult for them tell to tell which category they were on while hovering over.  
+
+Pick one reasonable adjustment to make to your system based on your testing. Implement that adjustment. 
+- Based on the testing I decided to change my system to make the tooltip appear under the category labels to make my system easier to explore.  
